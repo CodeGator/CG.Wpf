@@ -1,0 +1,31 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CG.Wpf.ViewModels
+  name: CG.Wpf.ViewModels
+  href: api/CG.Wpf.ViewModels.html
+  commentId: N:CG.Wpf.ViewModels
+  fullName: CG.Wpf.ViewModels
+  nameWithType: CG.Wpf.ViewModels
+- uid: CG.Wpf.ViewModels.WpfViewModelBase
+  name: WpfViewModelBase
+  href: api/CG.Wpf.ViewModels.WpfViewModelBase.html
+  commentId: T:CG.Wpf.ViewModels.WpfViewModelBase
+  fullName: CG.Wpf.ViewModels.WpfViewModelBase
+  nameWithType: WpfViewModelBase
+- uid: CG.Wpf.ViewModels.WpfViewModelBase.SetValue*
+  name: SetValue
+  href: api/CG.Wpf.ViewModels.WpfViewModelBase.html#CG_Wpf_ViewModels_WpfViewModelBase_SetValue_
+  commentId: Overload:CG.Wpf.ViewModels.WpfViewModelBase.SetValue
+  isSpec: "True"
+  fullName: CG.Wpf.ViewModels.WpfViewModelBase.SetValue
+  nameWithType: WpfViewModelBase.SetValue
+- uid: CG.Wpf.ViewModels.WpfViewModelBase.SetValue``1(``0@,``0,System.String)
+  name: SetValue<T>(ref T, T, String)
+  href: api/CG.Wpf.ViewModels.WpfViewModelBase.html#CG_Wpf_ViewModels_WpfViewModelBase_SetValue__1___0____0_System_String_
+  commentId: M:CG.Wpf.ViewModels.WpfViewModelBase.SetValue``1(``0@,``0,System.String)
+  name.vb: SetValue(Of T)(ByRef T, T, String)
+  fullName: CG.Wpf.ViewModels.WpfViewModelBase.SetValue<T>(ref T, T, System.String)
+  fullName.vb: CG.Wpf.ViewModels.WpfViewModelBase.SetValue(Of T)(ByRef T, T, System.String)
+  nameWithType: WpfViewModelBase.SetValue<T>(ref T, T, String)
+  nameWithType.vb: WpfViewModelBase.SetValue(Of T)(ByRef T, T, String)
